@@ -157,7 +157,7 @@ Client -> ProductController -> ProductRepository -> Hibernate -> PostgreSQL
 - [x] Project setup (Spring Boot, PostgreSQL, Maven)
 - [x] Health check endpoint
 - [x] Product CRUD
-- [ ] Docker setup (Dockerfile and Docker Compose) so the project runs the same on any machine
+- [x] Docker setup (Dockerfile and Docker Compose) so the project runs the same on any machine
 - [ ] DTOs and input validation
 - [ ] Centralized error handling
 - [ ] Service layer
